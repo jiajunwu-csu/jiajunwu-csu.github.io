@@ -10,7 +10,10 @@ title: Hobbies
 
 <img src="/images/running.jpg" alts="Running" style="width:100%; border-radius: 12px; margin-bottom: 10px;">
 
+<br>
+
 Running is more than a sport to me — it’s a mindset and a source of resilience.  
+
 In 2023, I successfully completed the **Yueyang Marathon (42 km full course)**, a milestone that pushed my limits and left a lasting memory.
 
 ---
