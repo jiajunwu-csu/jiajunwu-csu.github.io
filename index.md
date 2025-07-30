@@ -4,8 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
-
+<img src="/images/with_tiger.jpg" class="floatpic">
 👋 Hi, I'm Jiajun Wu (吴佳俊)
 
 🎓 I'm a third-year undergraduate student majoring in Computer Science at **Central South University**, advised by **Prof. Libo Qin**.
