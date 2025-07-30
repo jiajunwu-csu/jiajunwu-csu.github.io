@@ -8,7 +8,6 @@ title: Awards
 
 - **Dec 2024** — **National Scholarship**, Central South University  
   Top national-level award (¥10,000 RMB), granted to the only recipient in the **Excellence Training Program of Computer Science**
-
 - **Dec 2024** — **First-Class Academic Scholarship**, Central South University  
   Highest annual scholarship awarded to the No.1 student in the Excellence Training Program
 
