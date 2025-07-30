@@ -13,7 +13,12 @@ layout: page
 📚 Currently, I have two research papers under submission to **EMNLP 2026** and **AAAI 2026**, focusing on **natural language processing** and **multimodal learning**.
 
 📬 I'm always open to discussions and collaborations.  
-Feel free to reach out via: **1119774067@qq.com**
+Feel free to reach out via: 
+
+**Email**: 1119774067@qq.com
+
+**WeChat**: delight9921 (please indicate your purpose when adding)
+
 
 ---
 
