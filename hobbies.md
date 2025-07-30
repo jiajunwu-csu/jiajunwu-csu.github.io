@@ -14,7 +14,7 @@ title: Hobbies
 
 Running is more than a sport to me — it’s a mindset and a source of resilience.  
 
-In 2023, I successfully completed the **Yueyang Marathon (42 km full course)**, a milestone that pushed my limits and left a lasting memory.
+In 2023, I successfully completed the **Yueyang Marathon (42.195 km full course)**, a milestone that pushed my limits and left a lasting memory.
 
 ---
 
@@ -31,10 +31,8 @@ A photo, to me, is not just a visual — it’s a memory frozen in emotion.
 
 <img src="/images/lol.jpg" alt="League of Legends" style="width:100%; border-radius: 12px; margin-bottom: 10px;">
 
-Gaming has been a big part of my life for over **11 years**.
-
 I served as the **captain of the varsity League of Legends team at University**, leading strategies, training, and team coordination.  
-I reached **Grandmaster (宗师) rank**, placing me in the **top 0.01%** of all players on the server.
+I reached **Grandmaster  rank**, placing me in the **top 0.01%** of all players on the server.
 That journey required not just mechanics, but also leadership, game sense, and pressure control — skills I still carry into academic life.
 
 ---

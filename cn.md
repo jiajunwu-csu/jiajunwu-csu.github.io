@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://caihanlin.com/backup/caihalin(2025).JPG" class="floatpic">
+<img src="/images/jiajunwu.jpg.jpg" class="floatpic">
 
 您好，我是吴佳俊，来自中南大学计算机科学与技术卓越人才培养专业，目前为大三在读。
 
@@ -17,7 +17,7 @@ title: 主页中文版
 
 欢迎交流与合作！  
 📧 邮箱：1119774067@qq.com  
-💬 微信：`delight9921`（添加请注明来意，谢谢！）
+💬 微信：delight9921（添加请注明来意，谢谢！）
 
 
 > 📖 一首我最喜欢的诗 —— 北宋·王安石《登飞来峰》
