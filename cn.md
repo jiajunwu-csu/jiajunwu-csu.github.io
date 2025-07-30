@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="/images/jiajunwu.jpg.jpg" class="floatpic">
+<img src="/images/jiajunwu.jpg" class="floatpic">
 
 您好，我是吴佳俊，来自中南大学计算机科学与技术卓越人才培养专业，目前为大三在读。
 
