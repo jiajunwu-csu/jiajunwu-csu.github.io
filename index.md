@@ -4,7 +4,12 @@ layout: page
 
 # About Me
 
-<img src="/images/with_tiger.jpg" class="floatpic">
+<figure>
+  <img src="/images/with_tiger.jpg" class="floatpic">
+  <figcaption>
+     I (the front one) and my elder brother took this photo with a tiger by paying 10 yuan at a local circus in my hometown.
+  </figcaption>
+</figure>
 
 👋 Hi, I'm Jiajun Wu (吴佳俊)
 
