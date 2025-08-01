@@ -4,10 +4,7 @@ layout: page
 
 # About Me
 
-<div style="float: right; text-align: center; margin-left: 20px;">
-  <img src="/images/with_tiger.jpg" style="max-width: 200px; display: block; margin-bottom: 5px;">
-  <p style="font-size: 0.9em; color: #555; margin: 0;">Childhood memory: I (the front one) and my elder brother took this photo with a tiger by paying 10 yuan at a local circus in my hometown.</p>
-</div>
+<img src="/images/with_tiger.jpg" class="floatpic">
 
 👋 Hi, I'm Jiajun Wu (吴佳俊)
 
