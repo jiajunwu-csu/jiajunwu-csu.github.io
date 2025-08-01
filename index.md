@@ -4,9 +4,8 @@ layout: page
 
 # About Me
 
-![与哥哥和老虎的童年合影](/images/with_tiger.jpg)  
-
-**FIGURE 1:** I (the front one) and my elder brother took this photo with a tiger by paying 10 yuan at a local circus in my hometown.  
+<img src="/images/with_tiger.jpg" class="floatpic">
+<p>Childhood memory: I (the front one) and my elder brother took this photo with a tiger by paying 10 yuan at a local circus in my hometown.</p>
 
 👋 Hi, I'm Jiajun Wu (吴佳俊)
 
